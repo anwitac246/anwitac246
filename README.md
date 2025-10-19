@@ -95,14 +95,17 @@ Real-time chatting application with live messaging capabilities and seamless com
 
 ---
 
-### Oral Cancer Detection ML
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/anwitac246/oral-cancer-detection-ml)
+### Campaign AI
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/anwitac246/campaign-ai)
 
-Machine learning toolkit for early oral cancer detection, enabling healthcare diagnostics and early intervention.
+Full-stack AI-powered marketing assistant designed to empower small businesses and marketing teams. Streamlines the entire campaign creation process by leveraging specialized AI agents for market research, strategy development, copywriting, and image generation.
 
 **Technology Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 

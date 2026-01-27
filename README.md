@@ -19,7 +19,7 @@ My expertise lies in creating **scalable APIs**, implementing **automated testin
 
 #### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" height="80"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java&theme=dark" height="80"/>
 </p>
 
 #### Backend Frameworks
@@ -35,6 +35,20 @@ My expertise lies in creating **scalable APIs**, implementing **automated testin
 #### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" height="80"/>
+</p>
+
+#### AI/ML & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="50"/>
 </p>
 
 #### Testing
@@ -89,6 +103,7 @@ Real-time chatting application demonstrating mobile-first development expertise.
 - **CI/CD Pipelines** - GitHub Actions, Jenkins
 - **Testing & Quality Assurance** - Pytest, Jest, Playwright, React Testing Library
 - **Database Management** - MongoDB, PostgreSQL
+- **AI/ML Frameworks** - CrewAI, LangChain, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, SQL
 - **Frontend Technologies** - Next.js, React, Flutter
 
 ---
@@ -122,9 +137,8 @@ Real-time chatting application demonstrating mobile-first development expertise.
 ### Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/anwitac246"><img src="https://img.shields.io/badge/LinkedIn-Anwita%20Chakraborty-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/anwitac246"><img src="https://img.shields.io/badge/GitHub-anwitac246-black?style=for-the-badge&logo=github"></a>
-  <a href="mailto:anwita@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+ 
+  <a href="mailto:diyachakra.369@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---

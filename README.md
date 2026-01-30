@@ -108,15 +108,6 @@ Real-time chatting application demonstrating mobile-first development expertise.
 
 ---
 
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwitac246&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwitac246&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ### Contribution Graph
 
 <p align="center">
